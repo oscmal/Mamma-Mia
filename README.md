@@ -1,3 +1,10 @@
+Se sube proyecto de pagina E-comerce de pizzeria donde podra hacer pedidos y este se juntara en el carrito donde se sumaran los valores en el cual tambien se puede quitar algun producto no deseado.
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
